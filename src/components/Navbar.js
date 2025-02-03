@@ -3,7 +3,7 @@ import "./NavbarStyles.css"
 import React, { useState } from 'react';
 import { Link } from "react-router-dom";
 import { FaBars, FaTimes } from "react-icons/fa";
-import resumeFile from './shiprashah.pdf';
+//import resumeFile from './shiprashah.pdf';
 
 const Navbar = () => {
 
